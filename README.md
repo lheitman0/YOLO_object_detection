@@ -12,8 +12,8 @@ The notebook is capable of processing static images, video files, and even real 
 ## Results
 These results showcase the way the model renders results. The labels are from the COCO classes.
 
-![Result 1](results/YOLO_traffic_render.png)
-![Result 2](results/YOLO_zidane_render.png)
+![Result 1](data/results/YOLO_traffic_render.png)
+![Result 2](data/results/YOLO_zidane_render.png)
 
 ## Next Steps
 This YOLOv5 model is trained on the COCO classes, a list of everyday items. My plan is to expand the models capability by fine tuning it to detect other things which would allow for more functional use cases and a wider range of possibilities. 
